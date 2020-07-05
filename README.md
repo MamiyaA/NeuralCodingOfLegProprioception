@@ -13,3 +13,5 @@ FilterImages: Separate the signal channel and reference channel in the multi-cha
 
 KmeansClusterPixels: For the pixels inside the preselected region of interest, cluster the pixels into different groups with K-means clustering using the correlation between the pixel's responses to the stimuli as a distance measure. Results in groups of pixels that have similar responses to the stimuli.
 
+KmeansClusterPiexels_All: Runs KmeansClusterPiexels for all the appropriate files in a directory.
+
