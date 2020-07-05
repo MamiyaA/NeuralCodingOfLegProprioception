@@ -15,3 +15,6 @@ KmeansClusterPixels: For the pixels inside the preselected region of interest, c
 
 KmeansClusterPiexels_All: Runs KmeansClusterPiexels for all the appropriate files in a directory.
 
+SelectROICalculateDFF: Ask the user to manually select ROI, apply predefied pixel intensity threshold for each selected ROI, then calculate the DF/F (change in flureoscence relative to the baseline fluorescence) of those pixels based on the specified baseline frames.
+
+SelectROICalculateDFF_All: Runs SelectROICalculateDFF for all the appropriate files in a directory.
