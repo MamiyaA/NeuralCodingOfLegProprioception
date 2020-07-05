@@ -10,3 +10,6 @@ FilterAndRegisterImages: Separate the signal channel and reference channel in th
 FilterAndRegisterImages_All: Runs FilterAndRegisterImages for all the appropriate files in the directory.
  
 FilterImages: Separate the signal channel and reference channel in the multi-channel .tiff image, filter each image using Gaussian filter. Display original and filtered image sequences.
+
+KmeansClusterPixels: For the pixels inside the preselected region of interest, cluster the pixels into different groups with K-means clustering using the correlation between the pixel's responses to the stimuli as a distance measure. Results in groups of pixels that have similar responses to the stimuli.
+
