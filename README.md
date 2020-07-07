@@ -1,6 +1,8 @@
 # Neural Coding Of Leg Proprioception (Calcium imaging analyses)
 Analysis scripts for calcium imaging data presented in the paper "Neural Coding of Leg Proprioception in Drosophila" (Mamiya, Gurung, and Tuthill (2018) DOI:https://doi.org/10.1016/j.neuron.2018.09.009)
 
+![Graphical Abstract](Mamiya_etal_Neuron.jpg)
+
 All imaging data are multi-channel, time series image acquired using ScanImage Software (Vidrio Technologies)
 
 Brief description of each script:
